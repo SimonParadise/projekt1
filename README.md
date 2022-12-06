@@ -39,7 +39,12 @@ Schematic of our prijects wireing.
 
 ## Software description
 
-Put flowchats of your algorithm(s). Write descriptive text of your libraries and source files. Put direct links to these files in `src` or `lib` folders.
+Put flowchats of your algorithm(s). Write descriptive text of your libraries and source files.
+![DE2-PROJEKT1-TIMER1_OVF_VCT-S](https://user-images.githubusercontent.com/99410540/206043632-24652fb6-5dce-47a9-9c21-303e0d1af420.png)
+![DE2-PROJEKT1-TIMER2_OVF_VCT](https://user-images.githubusercontent.com/99410540/206043657-ae590b92-ae12-4f9a-886d-70835cbc2cc4.png)
+![DE2-PROJEKT1-ADC_VCT](https://user-images.githubusercontent.com/99410540/206043673-541f57c2-29d7-4b26-8e3b-55140abe6740.png)
+
+Put direct links to these files in `src` or `lib` folders.
 
 ## Video
 
